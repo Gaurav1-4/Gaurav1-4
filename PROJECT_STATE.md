@@ -1,7 +1,7 @@
 # Project State: Gaurav1-4 GitHub Profile Overhaul
 
 ## Status
-- **Current Phase**: Completed, Profile Showcasing GitAesthetic NPM Package
+- **Current Phase**: Completed & Updated with Founder @ Semly Branding
 - **Active Branch**: `main`
 - **Target Repo**: `Gaurav1-4/Gaurav1-4`
 
@@ -19,4 +19,6 @@
 - [x] Successfully re-ran and verified Snake Animation action with full 1,284 contributions
 - [x] Successfully re-ran and verified 3D Isometric profile action with full 1,284 contributions
 - [x] Built, packaged, and published `git-aesthetic@1.0.0` to global NPM registry (`npx git-aesthetic`)
-- [x] Updated profile README to feature `git-aesthetic` with live NPM badge and `npx` quick-start command
+- [x] Showcased `git-aesthetic` in profile README with live NPM badge
+- [x] Researched Semly platform details from GitHub repos (`semly-app`, IIIT Delhi academic archive, Next.js, Clerk, Gemini AI, Neon DB)
+- [x] Updated profile header banner, typing SVG, badges, and bio to prominently feature Founder @ Semly

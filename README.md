@@ -1,19 +1,22 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=GAURAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=GAURAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Semly%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descSize=18&descAlignY=62" width="100%" />
 
   <!-- Animated Neon Typewriter -->
   <a href="https://github.com/Gaurav1-4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&height=50&lines=%E2%9C%A6+AI+%26+Machine+Learning+Engineer+;%E2%9C%A6+Computer+Vision+%26+Gesture+Control+Builder+;%E2%9C%A6+Full-Stack+Intelligent+Systems+Architect+;%E2%9C%A6+Crafting+Next-Gen+Interactive+AI+Applications+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&height=50&lines=%E2%9C%A6+Founder+%40+Semly+(semly.in)+%F0%9F%8E%93;%E2%9C%A6+AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;%E2%9C%A6+Computer+Vision+%26+Gesture+Systems+%F0%9F%91%81%EF%B8%8F;%E2%9C%A6+Creator+of+git-aesthetic+(npx+git-aesthetic)+%F0%9F%93%A6" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- Status & Profile Views Badges -->
   <p align="center">
+    <a href="https://www.semly.in" target="_blank">
+      <img src="https://img.shields.io/badge/Founder-Semly.in-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Founder of Semly" />
+    </a>
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-00F0FF?style=for-the-badge&logo=openai&logoColor=black" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Open%20Source-Builder-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
     <img src="https://img.shields.io/badge/Location-India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=Gaurav1-4&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   </p>
@@ -26,19 +29,20 @@
 
 ```yaml
 name: Gaurav
-role: AI/ML Engineer & Computer Vision Developer
+venture: Founder @ Semly (https://www.semly.in)
+role: Founder & Full-Stack AI Engineer
 interests:
+  - EdTech, AI Study Platforms & Knowledge Systems
   - Computer Vision & Real-time Gesture Control
   - Deep Learning & Generative AI Applications
-  - Full-Stack Intelligent Web Systems
-current_focus: Building intuitive, AI-driven interactive products
+current_focus: Scaling Semly & building interactive AI products
 learning: Advanced Neural Architectures & Autonomous Agents
 ```
 
+- 🎓 **Founder & Lead Architect:** [**Semly**](https://www.semly.in) ([@semlyhq](https://instagram.com/semlyhq)) — IIIT Delhi's #1 verified academic archive & AI study platform providing past papers, midsem/endsem solutions, and intelligent exam prep.
 - 🚀 **Shipped:** [**`git-aesthetic`**](https://github.com/Gaurav1-4/git-aesthetic) — Published NPM developer tool (`npx git-aesthetic`) for 1-click animated GitHub profiles.
 - 🔭 **Building:** Real-time gesture and computer vision systems ([`air-canvas`](https://github.com/Gaurav1-4/air-canvas), [`ai-air-tiles`](https://github.com/Gaurav1-4/ai-air-tiles)) and generative AI tools.
-- 💡 **Passionate about:** Blending cutting-edge deep learning models with responsive full-stack software.
-- 💬 **Ask me about:** Python, OpenCV, PyTorch, MediaPipe, React/Next.js, and CLI/API automation.
+- 💬 **Ask me about:** Startup engineering, Next.js, PyTorch, OpenCV, EdTech AI, and developer tooling.
 
 ---
 
