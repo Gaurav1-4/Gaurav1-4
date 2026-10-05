@@ -35,9 +35,10 @@ current_focus: Building intuitive, AI-driven interactive products
 learning: Advanced Neural Architectures & Autonomous Agents
 ```
 
+- 🚀 **Shipped:** [**`git-aesthetic`**](https://github.com/Gaurav1-4/git-aesthetic) — Published NPM developer tool (`npx git-aesthetic`) for 1-click animated GitHub profiles.
 - 🔭 **Building:** Real-time gesture and computer vision systems ([`air-canvas`](https://github.com/Gaurav1-4/air-canvas), [`ai-air-tiles`](https://github.com/Gaurav1-4/ai-air-tiles)) and generative AI tools.
 - 💡 **Passionate about:** Blending cutting-edge deep learning models with responsive full-stack software.
-- 💬 **Ask me about:** Python, OpenCV, PyTorch, MediaPipe, React/Next.js, and model deployment.
+- 💬 **Ask me about:** Python, OpenCV, PyTorch, MediaPipe, React/Next.js, and CLI/API automation.
 
 ---
 
@@ -117,19 +118,28 @@ learning: Advanced Neural Architectures & Autonomous Agents
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Open-Source Projects
 
 <div align="center">
+  <p>
+    <a href="https://www.npmjs.com/package/git-aesthetic">
+      <img src="https://img.shields.io/npm/v/git-aesthetic?style=for-the-badge&logo=npm&color=CB3837" alt="NPM Version" />
+    </a>
+    <a href="https://github.com/Gaurav1-4/git-aesthetic">
+      <img src="https://img.shields.io/badge/CLI-npx%20git--aesthetic-00F0FF?style=for-the-badge&logo=terminal&logoColor=black" alt="Run CLI" />
+    </a>
+  </p>
+
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/Gaurav1-4/air-canvas">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=air-canvas&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Air Canvas" />
+        <a href="https://github.com/Gaurav1-4/git-aesthetic">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=git-aesthetic&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitAesthetic" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Gaurav1-4/ai-air-tiles">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=ai-air-tiles&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Air Tiles" />
+        <a href="https://github.com/Gaurav1-4/air-canvas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=air-canvas&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Air Canvas" />
         </a>
       </td>
     </tr>
@@ -140,8 +150,8 @@ learning: Advanced Neural Architectures & Autonomous Agents
         </a>
       </td>
       <td>
-        <a href="https://github.com/Gaurav1-4/air-painter-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=air-painter-ai&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Air Painter AI" />
+        <a href="https://github.com/Gaurav1-4/ai-air-tiles">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav1-4&repo=ai-air-tiles&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Air Tiles" />
         </a>
       </td>
     </tr>

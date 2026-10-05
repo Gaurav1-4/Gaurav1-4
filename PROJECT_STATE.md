@@ -1,7 +1,7 @@
 # Project State: Gaurav1-4 GitHub Profile Overhaul
 
 ## Status
-- **Current Phase**: Completed & Cache-Busted
+- **Current Phase**: Completed, Profile Showcasing GitAesthetic NPM Package
 - **Active Branch**: `main`
 - **Target Repo**: `Gaurav1-4/Gaurav1-4`
 
@@ -18,4 +18,5 @@
 - [x] Verified GitHub public GraphQL endpoint now returns all 1,284 contributions
 - [x] Successfully re-ran and verified Snake Animation action with full 1,284 contributions
 - [x] Successfully re-ran and verified 3D Isometric profile action with full 1,284 contributions
-- [x] Added cache-busting URL parameter (`?v=2`) to force GitHub Camo proxy and browser to immediately fetch the updated 1,284-contribution snake
+- [x] Built, packaged, and published `git-aesthetic@1.0.0` to global NPM registry (`npx git-aesthetic`)
+- [x] Updated profile README to feature `git-aesthetic` with live NPM badge and `npx` quick-start command
