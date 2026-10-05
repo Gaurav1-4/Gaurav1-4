@@ -46,6 +46,31 @@ learning: Advanced Neural Architectures & Autonomous Agents
 
 ---
 
+### 🚀 Venture Spotlight
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="110" align="center" valign="middle">
+        <a href="https://www.semly.in" target="_blank">
+          <img src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/semly-logo.png" width="90" alt="Semly Logo" />
+        </a>
+      </td>
+      <td>
+        <h4><a href="https://www.semly.in">Semly.in</a> &nbsp;•&nbsp; Founder & Lead Architect</h4>
+        <p>The #1 academic repository and AI study platform specialized for <strong>IIIT Delhi (IIITD)</strong> — delivering verified PYQ papers, midsem & endsem solutions, B.Tech curriculum notes, and AI-powered exam prep.</p>
+        <p>
+          <a href="https://www.semly.in" target="_blank"><img src="https://img.shields.io/badge/Platform-Live-10B981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+          <a href="https://instagram.com/semlyhq" target="_blank"><img src="https://img.shields.io/badge/Instagram-@semlyhq-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+          <a href="https://linkedin.com/company/semlyhq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Semly-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">

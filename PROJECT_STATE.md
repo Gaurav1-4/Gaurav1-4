@@ -21,4 +21,7 @@
 - [x] Built, packaged, and published `git-aesthetic@1.0.0` to global NPM registry (`npx git-aesthetic`)
 - [x] Showcased `git-aesthetic` in profile README with live NPM badge
 - [x] Researched Semly platform details from GitHub repos (`semly-app`, IIIT Delhi academic archive, Next.js, Clerk, Gemini AI, Neon DB)
+- [x] Extracted high-resolution official transparent Semly logo (`assets/semly-logo.png`)
+- [x] Designed & embedded Venture Spotlight section with official Semly logo, product synopsis, and live ecosystem links (Web, IG @semlyhq, LinkedIn)
 - [x] Updated profile header banner, typing SVG, badges, and bio to prominently feature Founder @ Semly
+
