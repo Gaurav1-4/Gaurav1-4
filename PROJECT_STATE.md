@@ -22,6 +22,9 @@
 - [x] Showcased `git-aesthetic` in profile README with live NPM badge
 - [x] Researched Semly platform details from GitHub repos (`semly-app`, IIIT Delhi academic archive, Next.js, Clerk, Gemini AI, Neon DB)
 - [x] Extracted high-resolution official transparent Semly logo (`assets/semly-logo.png`)
-- [x] Designed & embedded Venture Spotlight section with official Semly logo, product synopsis, and live ecosystem links (Web, IG @semlyhq, LinkedIn)
+- [x] Designed & embedded Venture Spotlight section with official Semly logo, product synopsis, and live ecosystem links (Web, IG @semlyhq, YouTube @Semlyhq)
+- [x] Replaced LinkedIn badge with official YouTube channel badge (`@Semlyhq`) per user specification
+- [x] Resolved capsule-render SVG XML entity parse error (`xmlParseEntityRef: no name`) via proper XML entity encoding (`%26amp%3B`)
 - [x] Updated profile header banner, typing SVG, badges, and bio to prominently feature Founder @ Semly
+
 

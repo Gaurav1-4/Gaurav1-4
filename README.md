@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=GAURAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Semly%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=GAURAV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Semly%20%7C%20AI%20%26amp%3B%20Computer%20Vision%20Engineer&descSize=18&descAlignY=62" width="100%" />
 
   <!-- Animated Neon Typewriter -->
   <a href="https://github.com/Gaurav1-4">
@@ -62,7 +62,7 @@ learning: Advanced Neural Architectures & Autonomous Agents
         <p>
           <a href="https://www.semly.in" target="_blank"><img src="https://img.shields.io/badge/Platform-Live-10B981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
           <a href="https://instagram.com/semlyhq" target="_blank"><img src="https://img.shields.io/badge/Instagram-@semlyhq-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-          <a href="https://linkedin.com/company/semlyhq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Semly-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+          <a href="https://www.youtube.com/@Semlyhq" target="_blank"><img src="https://img.shields.io/badge/YouTube-@Semlyhq-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
         </p>
       </td>
     </tr>
