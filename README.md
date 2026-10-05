@@ -107,6 +107,14 @@ learning: Advanced Neural Architectures & Autonomous Agents
   </picture>
 </div>
 
+<div align="center">
+  <details>
+    <summary><strong>🧊 Click to Expand 3D Isometric Contribution Graph</strong></summary>
+    <br/>
+    <img src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Graph" width="100%" />
+  </details>
+</div>
+
 ---
 
 ### 🚀 Featured Repositories
