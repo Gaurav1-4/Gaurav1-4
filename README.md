@@ -101,9 +101,9 @@ learning: Advanced Neural Architectures & Autonomous Agents
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake.svg" />
-    <img alt="Gaurav's Contribution Snake" src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake.svg?v=2" />
+    <img alt="Gaurav's Contribution Snake" src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
   </picture>
 </div>
 
@@ -111,7 +111,7 @@ learning: Advanced Neural Architectures & Autonomous Agents
   <details>
     <summary><strong>🧊 Click to Expand 3D Isometric Contribution Graph</strong></summary>
     <br/>
-    <img src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Profile Graph" width="100%" />
   </details>
 </div>
 
