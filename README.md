@@ -40,6 +40,7 @@ learning: Advanced Neural Architectures & Autonomous Agents
 ```
 
 - 🎓 **Founder & Lead Architect:** [**Semly**](https://www.semly.in) ([@semlyhq](https://instagram.com/semlyhq)) — IIIT Delhi's #1 verified academic archive & AI study platform providing past papers, midsem/endsem solutions, and intelligent exam prep.
+- ⚡ **Shipped:** **GAHA FLOW** — Zero-friction ambient voice &times; Apple Silicon Metal GPU macOS automation engine (&lt;50ms execution) with Glassmorphic Dashboard.
 - 🚀 **Shipped:** [**`git-aesthetic`**](https://github.com/Gaurav1-4/git-aesthetic) — Published NPM developer tool (`npx git-aesthetic`) for 1-click animated GitHub profiles.
 - 🔭 **Building:** Real-time gesture and computer vision systems ([`air-canvas`](https://github.com/Gaurav1-4/air-canvas), [`ai-air-tiles`](https://github.com/Gaurav1-4/ai-air-tiles)) and generative AI tools.
 - 💬 **Ask me about:** Startup engineering, Next.js, PyTorch, OpenCV, EdTech AI, and developer tooling.
@@ -150,6 +151,28 @@ learning: Advanced Neural Architectures & Autonomous Agents
 ### 🚀 Featured Open-Source Projects
 
 <div align="center">
+  <!-- GAHA FLOW Spotlight -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="80" align="center" valign="middle">
+        <span style="font-size: 40px;">⚡</span>
+      </td>
+      <td align="left">
+        <h4>⚡ GAHA FLOW &nbsp;•&nbsp; Ambient Voice &times; Apple Silicon Metal GPU Automation</h4>
+        <p>Zero-friction speech dictation bridge connecting <strong>Wispr Flow</strong> with <strong>Laya MLX</strong> on Apple Silicon Metal GPU for <strong>sub-50ms native macOS automation</strong> (Safari YouTube autoplay, app launches, CoreAudio volume, dark mode, Reminders) + Glassmorphic Control Dashboard.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Latency-Sub--50ms-10B981?style=flat-square" alt="Latency" />
+          <img src="https://img.shields.io/badge/Engine-Apple%20Silicon%20Metal%20GPU-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="Engine" />
+          <img src="https://img.shields.io/badge/Ear-Wispr%20Flow%20Cloud-8B5CF6?style=flat-square" alt="Wispr Flow" />
+          <img src="https://img.shields.io/badge/Browser-Safari%20Native-0A84FF?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Safari" />
+          <img src="https://img.shields.io/badge/Status-Private%20Release-EC4899?style=flat-square" alt="Status" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <p>
     <a href="https://www.npmjs.com/package/git-aesthetic">
       <img src="https://img.shields.io/npm/v/git-aesthetic?style=for-the-badge&logo=npm&color=CB3837" alt="NPM Version" />
