@@ -154,13 +154,18 @@ learning: Advanced Neural Architectures & Autonomous Agents
   <!-- GAHA FLOW Spotlight -->
   <table border="0" width="100%">
     <tr>
-      <td width="80" align="center" valign="middle">
-        <span style="font-size: 40px;">⚡</span>
+      <td width="220" align="center" valign="middle">
+        <a href="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/gaha-flow-demo.mp4">
+          <img src="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/gaha-flow-thumbnail.png" width="210" style="border-radius: 8px;" alt="Watch GAHA FLOW Demo" />
+        </a>
       </td>
       <td align="left">
         <h4>⚡ GAHA FLOW &nbsp;•&nbsp; Ambient Voice &times; Apple Silicon Metal GPU Automation</h4>
         <p>Zero-friction speech dictation bridge connecting <strong>Wispr Flow</strong> with <strong>Laya MLX</strong> on Apple Silicon Metal GPU for <strong>sub-50ms native macOS automation</strong> (Safari YouTube autoplay, app launches, CoreAudio volume, dark mode, Reminders) + Glassmorphic Control Dashboard.</p>
         <p>
+          <a href="https://raw.githubusercontent.com/Gaurav1-4/Gaurav1-4/main/assets/gaha-flow-demo.mp4">
+            <img src="https://img.shields.io/badge/▶️%20Watch-Live%20Demo%20(60fps)-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="Watch Demo" />
+          </a>
           <img src="https://img.shields.io/badge/Latency-Sub--50ms-10B981?style=flat-square" alt="Latency" />
           <img src="https://img.shields.io/badge/Engine-Apple%20Silicon%20Metal%20GPU-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="Engine" />
           <img src="https://img.shields.io/badge/Ear-Wispr%20Flow%20Cloud-8B5CF6?style=flat-square" alt="Wispr Flow" />
